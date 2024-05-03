@@ -1,0 +1,14 @@
+body {
+    font-family: system-ui;
+    text-align: center;
+    background-color: #333;
+}
+
+main.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: whitesmoke;
+    flex-direction: column;
+}
